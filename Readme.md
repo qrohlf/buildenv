@@ -3,7 +3,7 @@
 Docker image with build/deploy tools installed, used personally by me for smaller
 projects that don't need their own docker image.
 
-## Version Vistory
+## Version History
 
 | Version | Base Image    | Node Version | Yarn Version | Python Version | awscli Version |
 |---------|---------------|--------------|--------------|----------------|----------------|
