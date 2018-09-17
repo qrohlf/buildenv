@@ -11,3 +11,7 @@ projects that don't need their own docker image.
 | `1.1 `  | `node:9.11.1` | `9.11.1`     | `1.5.1`      | `3.4.2`        | `1.16.9`       |
 | `1.2`   | `node:10.10`  | `10.10.0`    | `1.9.4`      | `3.4.2`        | `1.16.24`      |
 | `1.3`   | `node:10.10`  | `10.10.0`    | `1.9.4`      | `3.4.2`        | `1.16.24`      |
+| `1.4`   | `node:10.10`  | `10.10.0`    | `1.9.4`      | `3.4.2`        | `1.16.24`      |
+
+the `X.X-puppeteer` tags are equivalent to the base version, but also include all the
+runtime dependences for running Chrome headless.

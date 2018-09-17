@@ -1,4 +1,4 @@
-FROM @qrohlf/buildenv:1.3
+FROM @qrohlf/buildenv:1.4
 
 ################## Chrome/Puppeteer dependencies ##################
 
